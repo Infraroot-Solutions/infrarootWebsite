@@ -1,9 +1,40 @@
+
 body{
   background-color: #EE0E51;
 }
 
+h1{font-family:monospace;;}
+
 h1{
-  padding-top: 100px;
-  color: #E4DCEF;
+  padding-top: : 100px;
+  color: Turquoise;
   text-align: center;
 }
+h1.oblique {
+    font-style: oblique;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+    border-color: slategray;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 20%:
+}
+
+
+
+
+
+
+/*.blended{
+  background-image:url(http://quotesblog.net/wp-content/uploads/2015/02/Simple-World-Hello-Day-300x300.jpg);
+  background-color: yellow;
+  background-blend-mode: multiply;
+}
+.picture{
+  background-image:url(http://quotesblog.net/wp-content/uploads/2015/02/Simple-World-Hello-Day-300x300.jpg);
+}
+.colour{
+  background-color: yellow;
+}*/
